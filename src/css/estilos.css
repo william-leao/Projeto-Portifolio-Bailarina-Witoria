@@ -4,6 +4,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
+    min-width: 100vh;
     
 }
 
@@ -56,9 +57,9 @@ body {
 }
 
 
-.perfil-1 { 
+.perfil-1 { background-color: aqua;
  
-    
+    width: 500px;
     height: 650px;
     padding: 10px;
     box-shadow: rgba(14, 14, 15, 0.2) 0px 7px 29px 0px;
