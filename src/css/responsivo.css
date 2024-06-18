@@ -1,6 +1,6 @@
  @media(max-width: 620px){ 
     .cabecalho{
-        padding: 30px 0;
+        padding: 60px 0;
     }
 
     .conteudo-1{ 
@@ -8,7 +8,7 @@
         gap: 10px;
     }
     .primeira-imagem{
-        height: 480px;
+        height: 800px;
         
     }
  }

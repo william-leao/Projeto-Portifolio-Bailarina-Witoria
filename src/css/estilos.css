@@ -9,7 +9,7 @@ body {
 
 .cabecalho {
     text-align: center;
-    padding: 5px 0;
+    padding: 60px 0;
     color: aliceblue;
     font-size: 13px;
     
@@ -17,7 +17,7 @@ body {
 
 
 
-.conteudo-1 {
+.conteudo-1 { 
     
 
  display: flex;
@@ -40,8 +40,8 @@ body {
 
 .primeira-imagem { 
     
-    width: 880px;
-    height: 510px;
+    width: 1000px;
+    height: 800px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -57,8 +57,9 @@ body {
 
 
 .perfil-1 { 
-
+ 
     
+    height: 650px;
     padding: 10px;
     box-shadow: rgba(14, 14, 15, 0.2) 0px 7px 29px 0px;
     border-radius: 10px;
@@ -87,9 +88,9 @@ body {
 .perfil-1 .descricao .texto { 
     
     
-    font-size: 13px;
+    font-size: 15px;
     padding: 10px;
-    max-height: 150px;
+    max-height: 400px;
     overflow: auto;
     background-color: rgb(51, 50, 50, 0.8);
     border-top-left-radius: 10px;
