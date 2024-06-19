@@ -11,6 +11,8 @@
     .primeira-imagem{ 
         height: 800px;
         width: 1000px;
+        justify-content: center;
+    align-items: center;
         
     }
     

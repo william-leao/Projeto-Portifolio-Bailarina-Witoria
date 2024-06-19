@@ -4,13 +4,12 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
-    min-width: 100vh;
     
 }
 
 .cabecalho {
     text-align: center;
-    padding: 100px;
+    padding: 60px 0;
     color: aliceblue;
     font-size: 13px;
     
