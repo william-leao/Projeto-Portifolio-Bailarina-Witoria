@@ -10,7 +10,7 @@ body {
 
 .cabecalho {
     text-align: center;
-    padding: 60px 0;
+    padding: 100px;
     color: aliceblue;
     font-size: 13px;
     
@@ -57,7 +57,7 @@ body {
 }
 
 
-.perfil-1 { background-color: aqua;
+.perfil-1 { 
  
     width: 500px;
     height: 650px;
