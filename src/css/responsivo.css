@@ -1,10 +1,12 @@
  @media(max-width: 620px){
-    .cabecalho{
-         padding: 30px 0;
+    .cabecalho{ 
+        
+         padding: 30px 0px 30px 360px;
+         
          
     }
     
-
+    
     .conteudo-1{
         
         padding: 0 15px;
