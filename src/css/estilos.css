@@ -4,70 +4,83 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
-   
+    
     
     
     
     
 }
+main{ 
+    
+    
+    display: flex;
+    width: 950px;
+    margin: auto;
+    
+}
+
+
+
 
 .cabecalho {
     text-align: center;
     padding: 60px 0;
-    color: aliceblue;
-    font-size: 13px;
-    
+}
+
+.cabecalho h1 {
+    color:#f1ecff;
+    font-size: 45px;
+    letter-spacing: 10px;
+    text-transform: uppercase;
 }
 
 
 
-.conteudo-1 { 
+.conteudo-1 {
     
 
  display: flex;
- justify-content: center;
- align-items: center;
+ 
+ 
+ 
+ 
  
 
    
 }
 
 .primeira-imagem {
-    
-    width: 1000px;
-    height: 700px;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    width: 330px;
+    height: 520px;
+    gap: 30px;
     
-    
-    
-    
-    
-   
     
 }
-
 
 .perfil-1 { 
- 
-    width: 500px;
-    height: 540px;
-    padding: 10px;
-    box-shadow: rgba(14, 14, 15, 0.2) 0px 7px 29px 0px;
+    
+    height: 530px;
+    padding: 12px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     border-radius: 10px;
- 
+    transition: opacity 0.3s ease-in-out;
     
-    
-    
+
 
     
     
-
+    
  
 }
 
+.perfil-1 .imagem-original { 
+    width: 100%;
+    height: 296px;
 
+    
+    
+}
     
     
 
