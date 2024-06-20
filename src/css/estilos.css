@@ -3,8 +3,9 @@ body {
     background-image: url('../imagens/fundo\ alternativo.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 60vh;
-    min-width: 80vh;
+    min-height: 100vh;
+   
+    
     
     
     
@@ -26,18 +27,18 @@ body {
  display: flex;
  justify-content: center;
  align-items: center;
+ 
 
    
 }
 
-.primeira-imagem { 
+.primeira-imagem {
     
     width: 1000px;
-    height: 800px;
+    height: 700px;
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 20px;
     
     
     

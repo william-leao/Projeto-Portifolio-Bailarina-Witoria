@@ -1,20 +1,28 @@
- @media(max-width: 620px){ 
+ @media(max-width: 620px){
+    
+    
+    
+    
     .cabecalho{
+
         
         padding: 100px 0
     }
 
-    .conteudo-1{ 
+    .conteudo-1{
         
+        
+        
+        justify-content: center;
+        align-items: baseline;
         padding: 0 30px;
         gap: 10px;
         
     }
     .primeira-imagem{ 
 
-        height: 600px;
-        width: 1000px;
         justify-content: center;
+        align-items: center;
         
         
     }
