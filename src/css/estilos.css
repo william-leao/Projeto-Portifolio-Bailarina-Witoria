@@ -3,7 +3,10 @@ body {
     background-image: url('../imagens/fundo\ alternativo.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 100vh;
+    min-height: 60vh;
+    min-width: 80vh;
+    
+    
     
 }
 
@@ -23,18 +26,7 @@ body {
  display: flex;
  justify-content: center;
  align-items: center;
- 
- 
- 
- 
-    
- 
- 
- 
- 
 
- 
- 
    
 }
 
@@ -59,7 +51,7 @@ body {
 .perfil-1 { 
  
     width: 500px;
-    height: 650px;
+    height: 540px;
     padding: 10px;
     box-shadow: rgba(14, 14, 15, 0.2) 0px 7px 29px 0px;
     border-radius: 10px;
@@ -88,9 +80,10 @@ body {
 .perfil-1 .descricao .texto { 
     
     
-    font-size: 15px;
+    font-size: 14px;
     padding: 10px;
-    max-height: 400px;
+    max-height: 200px;
+    width: 210px;
     overflow: auto;
     background-color: rgb(51, 50, 50, 0.8);
     border-top-left-radius: 10px;
@@ -103,6 +96,8 @@ body {
     
 }
 
+
+ 
 
     
 
